@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UY+mIZdNvvCD0ka4kvLMEvPIrgiOlgyc+WWYE9JUHLBEahfpSndepsXAHWVV04mbKrAUuE/haHmWU9yh+VrvsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\Documents\\MaapUP\\src\\MaapUP.Domain\\MaapUP.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

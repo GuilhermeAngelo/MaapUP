@@ -1,0 +1,12 @@
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\obj\Debug\net7.0\MaapUP.Domain.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\obj\Debug\net7.0\MaapUP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\obj\Debug\net7.0\MaapUP.Domain.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\obj\Debug\net7.0\MaapUP.Domain.AssemblyInfo.cs
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\obj\Debug\net7.0\MaapUP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\bin\Debug\net7.0\MaapUP.Domain.deps.json
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\bin\Debug\net7.0\MaapUP.Domain.dll
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\bin\Debug\net7.0\MaapUP.Domain.pdb
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\obj\Debug\net7.0\MaapUP.Domain.dll
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\obj\Debug\net7.0\refint\MaapUP.Domain.dll
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\obj\Debug\net7.0\MaapUP.Domain.pdb
+C:\Users\guilh\Documents\MaapUP\src\MaapUP.Domain\obj\Debug\net7.0\ref\MaapUP.Domain.dll
