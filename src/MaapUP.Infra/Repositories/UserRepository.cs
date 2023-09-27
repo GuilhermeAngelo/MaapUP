@@ -8,24 +8,24 @@ using Manager.Infra.Context;
 namespace MaapUP.Infra.Repositories{
     public class UserRespository : BaseRepository<User>, IUserRepository{
     
-    private readonly MaapUpContext _context;
+        private readonly MaapUpContext _context;
 
-     public BaseRepository(MaapUpContext _context) : base(context){
-        _context = context;
-    } 
+        public BaseRepository(MaapUpContext _context) : base(context){
+            _context = context;
+        } 
 
-    public async Task<User> GetByEmail(string email){
+        public async Task<User> GetByEmail(string email){
 
-        var user = await _context.Users
-                                .Where(
-                                    x => x.Email.ToLower() == email.ToLower()
-                                )
-                                .AsNoTracking()
-                                .ToListAsync();
+            var user = await _context.Users
+                                    .Where(
+                                        x => x.Email.ToLower() == email.ToLower()
+                                    )
+                                    .AsNoTracking()
+                                    .ToListAsync();
 
-        return user.FirstOrDefault();
+            return user.FirstOrDefault();
 
-    }
+        }
 
         public async Task<List<User>> SearchByEmail(string email){
 
@@ -38,7 +38,7 @@ namespace MaapUP.Infra.Repositories{
         return allUsers;
 
 
-    }
+        }
 
             public async Task<List<User>> SearchByName(string name){
 
@@ -50,7 +50,6 @@ namespace MaapUP.Infra.Repositories{
                                 .ToListAsync();
         return allUsers;
 
-    }
-    
+        }
     }
 }
