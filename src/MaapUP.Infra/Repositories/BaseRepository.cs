@@ -2,8 +2,8 @@ using linq;
 using System.Threading.Taks;
 using Microsoft.EntityFrameworkCore;
 using MaapUP.Domain.Entities;
-using Manager.Infra.Interfaces;
-using Manager.Infra.Context;
+using MaapUP.Infra.Interfaces;
+using MaapUP.Infra.Context;
 
 namespace MaapUP.Infra.Repositories{
 
